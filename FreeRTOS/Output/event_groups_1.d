@@ -1,0 +1,15 @@
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\event_groups.c
+..\..\output\event_groups_1.o: C:\Tools\Keil\Keil_MDK536\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\FreeRTOS.h
+..\..\output\event_groups_1.o: C:\Tools\Keil\Keil_MDK536\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\event_groups_1.o: C:\Tools\Keil\Keil_MDK536\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\event_groups_1.o: ..\..\User\FreeRTOSConfig.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\projdefs.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\portable.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\deprecated_definitions.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\portable\portmacro.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\mpu_wrappers.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\task.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\list.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\timers.h
+..\..\output\event_groups_1.o: ..\..\FreeRTOS\include\event_groups.h
